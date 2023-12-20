@@ -1,0 +1,100 @@
+# Arquivos de configuração
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos de ambiente
+.env
+
+# Banco de dados SQLite
+instance/site.db
+
+# Virtual Environment
+venv/
+
+# Arquivos de log e cache
+logs/
+*.log
+*.log.*
+*.cache
+
+# Arquivos gerados pela aplicação
+migrations/
+
+# Dependências Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+__pycache__/
+*.pyc
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+dist/
+build/
+*.exe
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Caches
+.caches/
+
+# Diretório Next.js
+.next/
+
+# Diretório de compilação
+node_modules/
+
+# Diretório de compilação de build (Next.js)
+out/
+
+# Arquivos de ambiente local
+.env.local
+
+# Diretório de build (React)
+build/
+
+# Diretório público (React)
+public/
+
+# Diretório de configuração (React)
+config/
+
+# Arquivos de compilação (React)
+*.js
+
+# Dependências (React)
+node_modules/
+
+# Yarn
+yarn.lock
+package-lock.json
+
+# Dependências NPM
+/node_modules/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Diretórios de cache e logs (Docker)
+docker-compose.override.yml
+
+# Arquivos de compilação (Docker)
+*.log
+
+# Diretórios de cache e logs (Docker)
+.cache/
+.tmp/

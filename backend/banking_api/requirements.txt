@@ -1,0 +1,10 @@
+asgiref
+Django
+djangorestframework
+djangorestframework-simplejwt
+PyJWT
+pytz
+sqlparse
+typing_extensions
+validate-docbr
+gunicorn
